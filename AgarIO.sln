@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{9D70D8DB-3FF7-BA54-439E-13E64828A1C1}") = "AgarIO", "Assembly-UnityScript.unityproj", "{0DDECC1C-7772-3B9D-0969-2C356EE71B3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DDECC1C-7772-3B9D-0969-2C356EE71B3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DDECC1C-7772-3B9D-0969-2C356EE71B3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DDECC1C-7772-3B9D-0969-2C356EE71B3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DDECC1C-7772-3B9D-0969-2C356EE71B3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
